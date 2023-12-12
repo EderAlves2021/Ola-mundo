@@ -1,2 +1,4 @@
-# Ola mundo
- primeiro  repositorio
+# Olá, mundo!
+ primeiro  repositorio.
+
+ Iniciando os estudos.
